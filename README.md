@@ -1,3 +1,4 @@
+Using Terraform, create an AWS instance, using multiple regions.
 ![Create an Aws using Terraform 1](https://github.com/AgboPatienceNdidiAmaka/3rd-Semester-Patience-Ndidiamaka-Agbo/assets/137604441/46b77a78-5244-4dc0-b38f-5cfa32d43f42)
 ![Create an Aws using Terraform 2](https://github.com/AgboPatienceNdidiAmaka/3rd-Semester-Patience-Ndidiamaka-Agbo/assets/137604441/dc6861a2-64fa-42c3-9c39-770d4d05770b)
 ![Create an Aws using Terraform 3](https://github.com/AgboPatienceNdidiAmaka/3rd-Semester-Patience-Ndidiamaka-Agbo/assets/137604441/4d13d469-967f-4672-a195-9c18cf8c55bc)
